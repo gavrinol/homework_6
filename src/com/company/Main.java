@@ -24,8 +24,6 @@ public class Main {
         fullName = fullName.replace('ё', 'е');
         System.out.println(fullName);
 
-
-
     }
 }
 
